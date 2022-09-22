@@ -5,6 +5,10 @@ export default {
   },
   About: {
     path: '/about/',
-    title: 'About'
+    title: 'About Me'
+  },
+  Projects: {
+    path: '/projects/',
+    title: 'Projects'
   }
 };
