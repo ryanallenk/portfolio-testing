@@ -3,10 +3,6 @@ export default {
     path: '/',
     title: 'Home'
   },
-  About: {
-    path: '/about/',
-    title: 'About Me'
-  },
   Work: {
     path: '/work/',
     title: 'Work'
