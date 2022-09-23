@@ -7,8 +7,16 @@ export default {
     path: '/about/',
     title: 'About Me'
   },
-  Projects: {
-    path: '/projects/',
-    title: 'Projects'
+  Work: {
+    path: '/work/',
+    title: 'Work'
+  },
+  Experience: {
+    path: '/experience/',
+    title: 'Experience'
+  },
+  Contact: {
+    path: '/contact/',
+    title: 'Contact'
   }
 };
