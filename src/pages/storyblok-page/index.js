@@ -1,7 +1,7 @@
 import { getStoryblokApi, useStoryblokState } from '@storyblok/react';
 import classnames from 'classnames';
 
-import styles from './project.module.scss';
+import styles from './storyblok.module.scss';
 
 import Head from '@/components/Head/Head';
 
